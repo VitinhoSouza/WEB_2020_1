@@ -1,0 +1,28 @@
+{
+  "disciplinas": [
+    {
+      "id": 1,
+      "nome": "TGA",
+      "curso": "SI",
+      "capacidade": "45"
+    },
+    {
+      "id": 2,
+      "nome": "Requisitos",
+      "curso": "ES",
+      "capacidade": "40"
+    },
+    {
+      "nome": "Fup",
+      "curso": "SI",
+      "capacidade": "40",
+      "id": 3
+    },
+    {
+      "nome": "TGS",
+      "curso": "SI",
+      "capacidade": "50",
+      "id": 4
+    }
+  ]
+}
