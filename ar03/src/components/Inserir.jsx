@@ -26,9 +26,6 @@ export default class Inserir extends Component {
     onSubmit(e){
         //https://www.robinwieruch.de/react-preventdefault        
         e.preventDefault() //impede que o browser faça o reload, perdendo assim a informação         
-        /*console.log('Nome: ' + this.state.nome)
-        console.log('Curso: ' + this.state.curso) 
-        console.log('Capacidade: ' + this.state.capacidade)*/
         const novaDisciplina = {nome:this.state.nome, curso:this.state.curso, capacidade:this.state.capacidade}
         axios.post('http://localhost:3001/disciplinas/',novaDisciplina)
         .then(            
@@ -41,7 +38,7 @@ export default class Inserir extends Component {
                 console.log(error)            
             }        
         )
-        this.setState = {nome:'', curso:'', capacidade:''}  
+        this.setState({nome:'', curso:'', capacidade:''})  
     }
 
     render (){

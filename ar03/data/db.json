@@ -7,20 +7,20 @@
       "capacidade": "45"
     },
     {
-      "id": 2,
-      "nome": "Requisitos",
+      "nome": "Requisitos de Software",
       "curso": "ES",
-      "capacidade": "40"
+      "capacidade": "50",
+      "id": 2
     },
     {
-      "nome": "Fup",
+      "nome": "FUP",
       "curso": "SI",
       "capacidade": "40",
       "id": 3
     },
     {
-      "nome": "TGS",
-      "curso": "SI",
+      "nome": "Autômatos",
+      "curso": "CC",
       "capacidade": "50",
       "id": 4
     }
