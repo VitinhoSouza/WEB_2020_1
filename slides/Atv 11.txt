@@ -1,0 +1,21 @@
+Pra que serve? 
+
+- Classes Main, SignIn, SignUp, ContentA, ContentB, Card
+
+Falta fazer:
+
+- Usar Card em Editar, Inserir, e Listar...
+
+Vídeos:
+Parte I->
+V1 -> 	28:00 (Links do Router) FEITO
+	*42:00 (Uso do Card)*	
+	44:00 (Mexe no index.css) FEITO
+	47:00 (Classe SignUp) FEITO
+	1:00:00 (Site Firebase)
+	1:04:00 (Firebase Keys)...
+	1:09:00 (Redux)...
+	1:20:00 (Conectar tudo no index.js)...
+	1:32:00 (App.js conectado no estado geral)...
+	
+
