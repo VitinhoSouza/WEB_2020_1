@@ -1,0 +1,15 @@
+.button{
+    font-size: 1.4em;
+    background-color: #f0f0f0;
+    border: solid 1px #888;
+    outline: none;
+    color: black;
+}
+
+.button:active {
+    background-color: #ccc;
+}
+
+.button.double {
+    grid-column: span 2;
+}
