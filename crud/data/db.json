@@ -1,0 +1,28 @@
+{
+  "estudantes": [
+    {
+      "nome": "Ronaldinho",
+      "curso": "Bruxaria",
+      "IRA": "10",
+      "id": 1
+    },
+    {
+      "nome": "Ronaldo",
+      "curso": "Fenomenologia",
+      "IRA": "9",
+      "id": 2
+    },
+    {
+      "nome": "Adriano",
+      "curso": "Imperadores",
+      "IRA": "7",
+      "id": 3
+    },
+    {
+      "nome": "Cristiano Ronaldo",
+      "curso": "Engenharia Mecânica",
+      "IRA": "7",
+      "id": 4
+    }
+  ]
+}
